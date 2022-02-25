@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Right Honourable, Sr. Thomas Stampe, Lord Mayor the Court of Alderman, and citizens of London, September 29th. 1692, at the election of the Lord Mayor for the year ensuing / by William Smythies ...</title>
+            <author>Smythies, William, d. 1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60687</idno>
+            <idno type="STC">Wing S4373</idno>
+            <idno type="STC">ESTC R2611</idno>
+            <idno type="EEBO-CITATION">12076521</idno>
+            <idno type="OCLC">ocm 12076521</idno>
+            <idno type="VID">53642</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60687)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53642)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 824:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Right Honourable, Sr. Thomas Stampe, Lord Mayor the Court of Alderman, and citizens of London, September 29th. 1692, at the election of the Lord Mayor for the year ensuing / by William Smythies ...</title>
+                  <author>Smythies, William, d. 1715.</author>
+               </titleStmt>
+               <extent>[4], 22, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Southby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Advertisement: p. [1] at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs XXIX, 2 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53642:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before the Right Honourable, Sr. Thomas Stampe, LORD MAYOR; THE <hi>Court of Aldermen,</hi> AND Citizens of <hi>LONDON, September</hi> 29th. 1692.</p>
+            <p>AT <hi>The Election of the Lord Mayor</hi> for the Year enſuing.</p>
+            <p>By <hi>WILLIAM SMYTHIES</hi> Curate of St. <hi>Giles Cripplegate.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Southby</hi> at the Harrow in <hi>Cornhil,</hi> 1692.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:53642:2"/>
+            <pb facs="tcp:53642:2"/>
+            <head>To the Right Honourable, <hi>Sr. Tho. Stampe, LORD MAYOR,</hi> &amp;c.</head>
+            <opener>
+               <salute>My Lord;</salute>
+            </opener>
+            <p>I Have obeyed the Command of your Lordſhip, and the Court of Aldermen, in this Publication, which will Vindi<g ref="char:EOLhyphen"/>cate my Reputation, to all ſo<g ref="char:EOLhyphen"/>ber Men, from thoſe Calumnies which are caſt upon me. I deli<g ref="char:EOLhyphen"/>vered nothing in this Sermon, (to which there is ſuch unjuſt Exception taken) but what I ought to have ſaid, in any City or Corporation in the King's Dominions, on the like occaſion.
+<pb facs="tcp:53642:3"/>And had the Citizens been as re<g ref="char:EOLhyphen"/>ally united in their Hearts, as Truth and Honeſty are joyned together in this plain Diſcourſe there would have been no ſuch Reproaches. That <hi>London</hi> may ſo <hi>know the Things which belong to H<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Peace,</hi> that they may never be <hi>hid from her Eyes:</hi> And that ſuc<g ref="char:EOLhyphen"/>ceeding Magiſtrates may follow your Example in your Great Station, is the Prayer of,</p>
+            <closer>
+               <salute>My LORD,</salute>
+               <signed>Your Lordſhips moſt Humble and Obedient Servant, <hi>W. SMYTHIES.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:53642:3"/>
+            <head>AN <hi>Election-Sermon</hi> Preach'd <hi>September</hi> 29th. 1692.</head>
+            <epigraph>
+               <q>
+                  <bibl>PROV. xxix. <hi>Ver.</hi> 2.</bibl>
+                  <p>When the Righteous are in Authority the People rejoyce.</p>
+               </q>
+            </epigraph>
+            <p>THERE needs no Preface to a Proverb. This is one of the <hi>Aphoriſms</hi> of the Wiſe Man, which are therefore highly to be valued, and diligently to be obſerved, be<g ref="char:EOLhyphen"/>cauſe he had <hi>the Wiſdom which is from above.</hi> God is the Maſter of theſe Sentences: And they are of ex<g ref="char:EOLhyphen"/>cellent Uſe for the Regulation of Mens Lives and Actions through all the various affairs of this Life.</p>
+            <p>In this Book we are furniſhed with <hi>Ethicks, Oeco<g ref="char:EOLhyphen"/>nomicks,</hi> and <hi>Politicks;</hi> by which every Man may know how to govern himſelf, every Maſter may know how to govern his Family, and every Magi<g ref="char:EOLhyphen"/>ſtrate
+<pb n="2" facs="tcp:53642:4"/>may know how to govern thoſe that are un<g ref="char:EOLhyphen"/>der his Juriſdiction and Authority.</p>
+            <p>My Text hath relation to the laſt of theſe, and is fit for our Direction in the great Affair of this Day.</p>
+            <p>I cannot, in the firſt place, but take notice of <hi>So<g ref="char:EOLhyphen"/>lomons</hi> Suppoſition, which is the neceſſity of Autho<g ref="char:EOLhyphen"/>rity or Government. There needs no <hi>Interregnum</hi> to convince us of this: For by the dayly Irregula<g ref="char:EOLhyphen"/>rities and Outrages of Men under a ſtrict Govern<g ref="char:EOLhyphen"/>ment and ſevere Laws, we may conclude, that if there were no Authority to puniſh Offenders, the World would be worſe than a Foreſt of Wild Beaſts: And all honeſt Men, like <hi>Job,</hi> would curſe the day in which they came into it. Nay, it would, in one reſpect, be worſe than Hell it ſelf, where the Devils have <hi>Bel<g ref="char:EOLhyphen"/>zeebub</hi> for their Head, and are under a ſort of Go<g ref="char:EOLhyphen"/>vernment, as we learn from our Bleſſed Saviour.</p>
+            <p>As therefore it is of abſolute neceſſity that there ſhould be Government, ſo it is one of the greateſt Con<g ref="char:EOLhyphen"/>cerns of this Life, that there ſhould be Righteous Go<g ref="char:EOLhyphen"/>vernours.</p>
+            <p>The due Adminiſtration of Juſtice in a City, is like the Fountains or Rivers which ſupply it, without which the Inhabitants could not ſubſiſt. And where there is Male-Adminiſtration, that City would be like to <hi>Jericho,</hi> of which 'tis ſaid, 2 <hi>King.</hi> 2.19. that it is well ſcituated, but the Waters are naught. And where there hath been any ſuch Miſcarriage, a Righteous Magiſtrate may, like <hi>Eliſha,</hi> make the Waters to be ſweet again.</p>
+            <pb n="3" facs="tcp:53642:4"/>
+            <p>I come now to that which I chiefly intend, which is to ſhew,
+<list>
+                  <item>Firſt, <hi>Who is a Righteous Magiſtrate.</hi> And,</item>
+                  <item>Secondly, <hi>That the People have cauſe to Rejoyce in him.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>We may underſtand the Word <hi>Righteous</hi> in the largeſt ſenſe, as taking in all neceſſary Qualifications for the Magiſtratioal Office. And theſe I ſhall rank under Six Heads.</p>
+            <p>
+               <hi>I.</hi> The Firſt is <hi>Wiſdom.</hi> The Government of a great City, is of great Importance, and requires great Wiſdom and Prudence for the management of it; for he muſt be a Wile Man both in the Government of himſelf and others.</p>
+            <p>
+               <hi>Firſt,</hi> In the Government of himſelf, and this muſt be over his Appetite, and over his Paſſion.</p>
+            <p n="1">1. He muſt govern his Appotite, that by luxurious Eating and Drinking, he may not be unfit for the diſcharge of his great Undertaking. The Sin of Drunkenneſs is a ſhame to the meaneſt Beggar, but how inexpreſſibly ſhameful is it in him, who is to puniſh the Drunkard and the Beggar too. The Scrip<g ref="char:EOLhyphen"/>ture calls Magiſtrates, <hi>Gods;</hi> becauſe they are in God's place on Earth, to execute Juſtice and Judgment: But they are very unfit to be called ſo, who are un<g ref="char:EOLhyphen"/>worthy to be called <hi>Men.</hi>
+            </p>
+            <p>I have read of Two Laws amongſt the Heathens, for the prevention of this Sin in Magiſtrates: One
+<pb n="4" facs="tcp:53642:5"/>was, that they ſhould drink no Wine: And the o<g ref="char:EOLhyphen"/>ther was, that they ſhould be put to Death, if they drank too much. So neceſſary was Sobriety and Tem<g ref="char:EOLhyphen"/>perance accounted in them that govern, by thoſe who had not the Laws of Heaven to oblige them to it, as Chriſtians have.</p>
+            <p>Places of Authority are Places of Honour, in which Men muſt have a care that they be not guilty of any Vice, which will be a reproach to them whilſt they live, and cauſe their Names to rot when they are dead.</p>
+            <p>Hiſtory tells us of a great Magiſtrate, of whom it was ſaid, that he lived, <hi>non ut vivat ſed ut bibat,</hi> he lived only to gratifie his drunken Appetite. And when he was turned out of his Office, and for grief hanged himſelf, the people derided his dead Body, and ſaid, <hi>There hangs up a Tankard.</hi> So odious was Intemperance in him, who ſhould have been an Example of Sobriety, and a Puniſher of that Vice of which he himſelf was guilty. <hi>Solomon</hi> ſaith, <hi>Eccl.</hi> 10.16. <hi>Wo unto thee O Land when thy Princes eat in the Morning.</hi> And <hi>v.</hi> 17. <hi>Bleſſed art thou O Land when thy Princes eat in due ſeaſon, for ſtrength and not for drunkenneſs.</hi> Where, by eating, we are to underſtand luxurious eating and drinking. Eating and drinking is far from being the end of our Beings, but appointed as a means to enable us for the duties of our ſeveral Places; the doing of which is a great end for which we live. This Tem<g ref="char:EOLhyphen"/>perance ought to be the care of all Men, and in an eſpecial manner, of all thoſe who are in Authority. Their Minds had need to be upon their buſineſs, and not upon their Bellies, upon whom the Wel-fare of a
+<pb n="5" facs="tcp:53642:5"/>great City doth ſo much depend. They ſhould imi<g ref="char:EOLhyphen"/>tate <hi>Moſes,</hi> of whom we read, <hi>Exod</hi> 18.13. that he aroſe in the <hi>Morning to ſit in Judgment.</hi> And <hi>David</hi> ſaith, <hi>Pſal.</hi> 108.1. <hi>I will early deſtroy all the Wicked of the Land.</hi> By which Expeſitors underſtand, that he made the Morning to be the time of Judicature. He was an early riſer to do his Devotion to God, <hi>Pſal.</hi> 5.3. <hi>My Voice ſhalt thou hear in the morning, in the morning will I direct my Prayer unto thee and will look up.</hi> And from that Duty, like a pious Magiſtrate, he went to the diſcharge of the other. It was Gods ſpecial Command to the Houſe of <hi>David, Jer.</hi> 21.12. that they ſhould <hi>execute Judgment in the morning,</hi> which was anciently the time of that Adminiſtration, becauſe Magiſtrates were then more ſit for that great Affair than after they had eaten and drank. Intem<g ref="char:EOLhyphen"/>perance makes a Man forget his buſineſs, and there<g ref="char:EOLhyphen"/>fore the Heathens were wont to call the God of <hi>Wine</hi> the Son of <hi>Forgetfulneſs.</hi> If Magiſtrates are guilty of this, it may cauſe them to pervert Juſtice. The Prince who was <hi>made ſick with bottles of Wine, ſtretched out his hand with ſcorners,</hi> Hoſ. 7.5. when he ſhould have ſtretched out his hand againſt them.</p>
+            <p n="2">2. There muſt be wiſdom in the government of his Paſſion, I mean that of anger, for when that pre<g ref="char:EOLhyphen"/>vails it is a ſecond drunkenneſs. And truly he that is in the ſeat of judicature had need to have com<g ref="char:EOLhyphen"/>mand of himſelf, conſidering how many, and how great the provocations are which he dayly meets with. We read of wiſe Heathens, who were very averſe to Magiſtratical engagements, becauſe of the vexations that attended them. One ſaid, that he could better endure baniſhment. Another, that he had rather go to his grave in quiet. Moſt certain
+<pb n="6" facs="tcp:53642:6"/>it is, that the Office will try the Temper and Pa<g ref="char:EOLhyphen"/>tience of him that undertakes it. <hi>Moſes</hi> was the meekeſt Man in the world, and yet not always meek enough to govern his paſſion when diſturb'd by a diſorderly and Murmuring people, who (as the Pſalmiſt ſaith) <hi>provoked him ſo, that he ſpake unadvi<g ref="char:EOLhyphen"/>ſedly with his lips,</hi> for which God was offended at him. <hi>Solomon</hi> ſaith, <hi>he that is ſlow to anger is better than the mighty; and he that ruſeth his Spirit, than he that taketh a City,</hi> Prov. 16.32. The meaning is, that he who overcomes himſelf is more to be valued than he who, by force and violence, overcometh others. Immoderate anger is called by the Latines <hi>Impotentia.</hi> It is the weakneſs and impotency of a man, which will give occaſion to the Envious to Reproach them that are placed above them. Where paſſion prevailes in the chief Magiſtrate, the whole City may be diſcompos'd by his diſcompoſure. And amongſt other evils (which are too many for me to reckon up) this great one is to be expected from a paſſionate Magiſtrate, <hi>viz.</hi> paſſing haſty judgment, it being impoſſible for him with due attendance and ſedateneſs, to weigh and conſider all that is offered on both ſides. Slanderous <hi>Ziba</hi> putting King <hi>Da<g ref="char:EOLhyphen"/>vid</hi> into a paſſion, cauſed a very undeſerved ſeveri<g ref="char:EOLhyphen"/>ty againſt <hi>Mephiboſheth.</hi> It was a good ſaying con<g ref="char:EOLhyphen"/>cerning good Magiſtrates. <hi>Ad puniendum, non <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>racun<g ref="char:EOLhyphen"/>dia ſed equitate, ducuntur.</hi> 'Tis not paſſion, but equi<g ref="char:EOLhyphen"/>ty, that is their guide.</p>
+            <p n="2">2. He muſt have wiſdom to govern others. By wiſdom I chiefly mean, knowledge of the Laws which he is to execute, and of thoſe rights and priviledges which he is to preſerve. What <hi>Solomon</hi> ſaith of a
+<pb n="7" facs="tcp:53642:6"/>Nation, I may ſay of a City (<hi>Prov.</hi> 28.) <hi>By a man of underſtanding, the ſtate thereof is prolonged.</hi> It reflects upon the Wiſdom of Electors when a man is cho<g ref="char:EOLhyphen"/>ſen, who is only Honored to his Face, becauſe of his High Station, and ridicul'd behind his back, in ma<g ref="char:EOLhyphen"/>ny Companies, for his great inability to perform the duty of it. And I may uſe the words of <hi>Selo<g ref="char:EOLhyphen"/>mon</hi> in another place, with little alteration, <hi>Eccl.</hi> 10. <hi>v.</hi> 16. <hi>Wo unto thee,</hi> O City when thy Governour <hi>is a Child;</hi> which is all one in reference to age and underſtanding. It was a great judgment which God threatned to the diſobedient: That he would <hi>take away the mighty man, and the prudent man, and give them Children to be their Princes and Babes to Rule over them,</hi> Eſa. 3. And on the contrary, it is a great bleſſing of God to have wiſe and good governours, which he promiſed by the prophet <hi>Eſaiah</hi> as an en<g ref="char:EOLhyphen"/>couragement to reform the diſobedient, (c. 1.25.) <hi>I will reſtore thy Judges at the firſt, and thy Coun<g ref="char:EOLhyphen"/>cellors as at the beginning:</hi> Such as <hi>Moſes,</hi> and <hi>Joſhua,</hi> and <hi>David</hi> were. The world never was without miſchievous men who would deſtroy the welfare of it, nor any great City without thoſe that ſeek to un<g ref="char:EOLhyphen"/>dermine its peace and proſperity: By which every one may underſtand how neceſſary it is that it ſhould be govern'd by a wiſe Magiſtrate, according to that of <hi>Solomon,</hi> Prov. 29.8. <hi>Scornful men,</hi> or (as 'tis ren<g ref="char:EOLhyphen"/>dred) peſtilent men <hi>bring a City into a ſnare, but Wiſe Men turn away wrath.</hi> They prevent the fury of thoſe men. It was a good ſaying of a wiſe Hea<g ref="char:EOLhyphen"/>then. <hi>
+                  <g ref="char:V">Ʋ</g>bi preſes fuerit Philoſophus, ibi civitas erit felix;</hi> where the Preſident or Magiſtrate of a City is a wiſe man, that City is happy: And another ſaith, that, of all arts, the well-government of a City hath
+<pb n="8" facs="tcp:53642:7"/>the preheminence. Wiſdom is a neceſſary Qualifica<g ref="char:EOLhyphen"/>tion.. That's the firſt.</p>
+            <p>
+               <hi>II.</hi> A Second is Juſtice and Uprightneſs. Which muſt appear by theſe two Negatives.</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> He muſt not be byaſs'd by any perſonal favour.</item>
+               <item>
+                  <hi>Secondly,</hi> He muſt not be byaſs'd by any ſini<g ref="char:EOLhyphen"/>ſter deſign of advantage to himſelf.</item>
+            </list>
+            <p>
+               <hi>Firſt,</hi> Not by any perſonal favour or affection. He muſt be an upright Man that doth not lean on one ſide. A Malefactor muſt not be ſpar'd for any former friendſhip, nor receive the greater puniſhment becauſe of any former pique or prejudice. <hi>Solomon</hi> ſaith, Prov. 24, 25. <hi>To accept perſons in judgment is not good,</hi> which (is a <hi>Meioſis,</hi> and) ſignifies that it is exceedingly bad and abominable.</p>
+            <p>We read of two Eminent Heathens who acted di<g ref="char:EOLhyphen"/>verſly for this principle of uprightneſs and impar<g ref="char:EOLhyphen"/>tiality: One of them being choſen a Senator, and accepting of it, made a ſplendid Feaſt to which he invited all his friends, and entertained them with all imaginable reſpect and kindneſs: But at the end of it, he took a ſolemn leave of them, as if he had been going into another Countrey at that time when he was only going into another Station; intimating thereby, that no friend muſt expect the leaſt favour or kindneſs from him in the diſcharge of that Office, in which the peace of his Conſcience, and the wel<g ref="char:EOLhyphen"/>fare of the City were greatly concern'd. The other
+<pb n="9" facs="tcp:53642:7"/>being Elected, utterly refus'd it, ſaying that he would never be placed at that poſt where he ſhould be obliged to make no difference between his friends and his foes. We may, by theſe inſtances, ſee how juſt and upright theſe men were who had only the light of natural Principles, and not that revelati<g ref="char:EOLhyphen"/>on of the will of the <hi>Righteous Lord, who loveth Righteouſneſs, and whoſe countenance doth behold the upright, Pſal.</hi> 11.7. And who threatneth his Eter<g ref="char:EOLhyphen"/>nal wrath and diſpleaſure to the unrighteous.</p>
+            <p>I may add farther, that Magiſtrates muſt not only turn their backs upon their friends, and acquaintance, that juſtice may take place, but upon their neareſt and deareſt Relations. A Magiſtrate muſt be like <hi>Melchizedeck, without Father and without Mother.</hi> He muſt imitare our Saviour, who, when he was told, <hi>That his Mother and his Brethren were without waiting for him,</hi> ſaid, <hi>Who is my Mother and my Brethren?</hi> Intimating, that he had that buſineſs to do, to which Natural Affection muſt give place. Juſtice and Up<g ref="char:EOLhyphen"/>rightneſs muſt prevail above all Obligations what<g ref="char:EOLhyphen"/>ſoever. God and Conſcience, and the Publick Good, muſt be preferr'd above all.</p>
+            <p n="2">2. As Favour and Affection muſt not ſway a Ma<g ref="char:EOLhyphen"/>giſtrate; ſo much leſs muſt Covetouſneſs and the Love of Riches. They muſt be <hi>Men of Truth,</hi> (that is, Men of Honeſty and Sincerity) <hi>and hating Covetouſneſs, Exod.</hi> 18.21. which is ſordid and baſe in the eſteem of all Men. A Magiſtrate may <hi>love</hi> his Friend, but he muſt <hi>hate</hi> Covetouſneſs.</p>
+            <p>He that will proſtitute Juſtice to any baſe merce<g ref="char:EOLhyphen"/>nary
+<pb n="10" facs="tcp:53642:8"/>deſign, is one that ſells his Reputation, and the Reputation of his Electors, and (which is more than all) he ſells the Peace of his own Conſcience: Or I may ſay of him as 'twas ſaid of <hi>Ahab, He ſells himſelf to work wickedneſs.</hi> This is a Sin ſo odious to God, and ſo provoking, that it were better for ſuch a Magiſtrate, <hi>that a Mill ſtone</hi> (and not a Chain) <hi>were hanged about his neck, and he caſt into the Sea.</hi> It were endleſs to give an Account of all that the Scriptures ſpeak to this purpoſe. <hi>Solomon</hi> juſtly gives the Title of a wicked man to ſuch a Magiſtrate, <hi>Prov.</hi> 17.23. <hi>A wicked man taketh a gift out of the boſome, to per<g ref="char:EOLhyphen"/>vert the ways of Judgment;</hi> that is, he taketh it ſe<g ref="char:EOLhyphen"/>cretly out of the boſom of another man. But what<g ref="char:EOLhyphen"/>ever the Value of the Gift be, it connot compenſate the Guilt that is, and the Terror that will be in his <hi>own</hi> boſome. Let it be never ſo ſecret, 'tis as open and manifeſt to God, as it would be to men, if that which is engraven in his Conſcience, were ſet over his door, <hi>Here is Iuſtice to be Sold.</hi>
+            </p>
+            <p>The Scripture tells us of Rulers, who inſtead of <hi>hating Covetouſneſs,</hi> delighted in nothing more than <hi>Bribes. The Rulers, with ſhame, do love, Give ye,</hi> Hoſ. 4.18. The ſhame ſpoken of, doth not denote the Temper of the man, for he is paſt ſhame, but the Nature of the Crime; to which purpoſe ſome Ex<g ref="char:EOLhyphen"/>poſitors read it, <hi>O Dedecus! O Ignominia!</hi> The Rulers, O Shame! O Diſgrace! do love, Give ye. And we find in the beginning of the next Chapter, the ſevere Judgment of God threatned againſt them. The like Complaint we find by the Prophet <hi>Micah,</hi> Chap. 7. <hi>ver.</hi> 3. <hi>They do evil with both hands earneſtly. The Prince asheth, and the Judge asketh a Reward, and the
+<pb n="11" facs="tcp:53642:8"/>great Man uttereth his miſchievous deſire, ſo they wrap it up.</hi> There were corrupt Magiſtrates, who for a Re<g ref="char:EOLhyphen"/>ward, would gratifio miſchievous Deſigns, and let Juſtice and the proſecution of it, drop out of their hands. They had but two hands, and they were both wickedly employ'd, <hi>They did evil with both hands earneſtly,</hi> and the miſchievous deſires were wrapt up. But God would not wrap them up, for he haſtned <hi>their viſitation and perplexity,</hi> in the next Verſe. This is hateful to God and man. When the man that took a Reward was <hi>curſed,</hi> all the People were to ſay <hi>Amen,</hi> Deut. 27.25.</p>
+            <p>There is another Conſideration which I am loath to omit. He that is guilty of this abominable ſin, is a Reproach to this brave and generous City. All the three Kingdoms, and it may be, moſt of the Kingdoms in this part of the World, do ring of the Noble and Charitable Acts which have been done by the Magiſtrates and other Worthy Citizens of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> ſuch as have not <hi>with ſhame</hi> lov'd, <hi>Give ye;</hi> but, <hi>with honour and renown,</hi> have lov'd, <hi>I will give.</hi>
+            </p>
+            <p>They have been, and are at this day, <hi>Fathers of the Fatherleſs,</hi> by whoſe Bounty, Orphans, who might have periſhed, are ſo happily provided for when their Parents are dead and gone, that as 'tis ſaid in <hi>Job, Their Children come to Honour and they know it not.</hi>
+            </p>
+            <p>They are Husbands to the Widows, who are ſo comfortably relieved, that (as <hi>Job</hi> ſaith of himſelf) they make <hi>the Widows hearts to ſing for joy.</hi>
+            </p>
+            <p>They are good <hi>Samaritans,</hi> who have provided
+<pb n="12" facs="tcp:53642:9"/>Houſes for the Wounded, and <hi>Wine and Oyl</hi> to ſup<g ref="char:EOLhyphen"/>ply them, to the end of the World.</p>
+            <p>They have provided Hoſpitals for the Lame and Impotent, who have been <hi>carryed in,</hi> with pale faces, and dejected countenances, but have <hi>come out</hi> again, like the man whom the Apoſtles cured, <hi>walking and leaping and praiſing God,</hi> for ſuch Benefactors.</p>
+            <p>And a moſt excellent Structure is built for thoſe who have loſt themſelves, their Reaſon I mean, (with<g ref="char:EOLhyphen"/>out which all the World ſignities nothing) who have had <hi>that</hi> Benefit by their Charity, which the Luna<g ref="char:EOLhyphen"/>ticks in the Goſpel had by our Saviours Miracles, reſtoration to their right Minds.</p>
+            <p>'Tis Pity, that a Covetous man ſhould ever be the Governour of a City, that hath been ſo libe<g ref="char:EOLhyphen"/>ral. And the Truth is, thoſe that are Citizens in<g ref="char:EOLhyphen"/>deed, will account themſelves obliged to do ſuch worthy Acts, as a grateful Acknowledgment of the good which they have received in the City. We of<g ref="char:EOLhyphen"/>ten find in the Scriptures, that Cities are called <hi>Mo<g ref="char:EOLhyphen"/>thers,</hi> and the Citizens are called their <hi>Children;</hi> from which we may conclude, that there lies a kind of Natural Obligation upon them to do good to the City, in which they enjoy Proſperity, and which hath been as a tender Mother that hath <hi>ſwadled and brought them up,</hi> Lam. 2.22. And ſuch Worthy Men are highly to be valued. We read in St. <hi>Lukes</hi> Goſ<g ref="char:EOLhyphen"/>pel, <hi>Chap.</hi> 7. That when the <hi>Centurions</hi> Servant, <hi>who was dear to him,</hi> was taken ſick, the Elders came to our Saviour to deſire him to go to his Houſe, and urged this prevailing Argument, <hi>He is worthy for whom thou ſhalt do this, for he loveth our Nation and
+<pb n="13" facs="tcp:53642:9"/>hath built us a Synagogue.</hi> He who loveth the City, and hath a mind diſpoſed to Acts of Piety and Cha<g ref="char:EOLhyphen"/>rity, is worthy of all the Reſpect and Honour that Citizens can ſhew to him.</p>
+            <p n="3">
+               <hi>III.</hi> A third Qualification is <hi>Diligence.</hi> A Ma<g ref="char:EOLhyphen"/>giſtrate muſt be a Man that will beſtir himſelf, to do God and the King and the City ſervice, in his great Station. He who loves to have his hand in his boſom, ought not to have the ſword put into it. He muſt be like <hi>Job</hi> who was diligent as well as juſt (and if he had not been diligent he could not have been juſt) who ſaith, <hi>Chap.</hi> 29, 16. <hi>The cauſe which I knew not I ſearched out.</hi> He did not con<g ref="char:EOLhyphen"/>ſult his own eaſe, by hudling up the cauſe which came before him, but ſearched into the bottom of it: And in this he ſhewed himſelf to be a Righteous Magiſtrate, according to that of <hi>Solomon,</hi> Prov. 29.7. <hi>The righteous conſidereth the cauſe of the poor, but the wicked regardeth not to know it.</hi> Magiſtrates, as 'tis ſaid in <hi>Deutronomy,</hi> Ch. 13. v. 14. muſt <hi>enquire and make ſearch and ask diligently.</hi> The Office, though very Honourable, is very burthenſom, (as <hi>Jethro</hi> told <hi>Moſes</hi>) it had not need to be laid upon the ſhoul<g ref="char:EOLhyphen"/>der of him that loves his eaſe. <hi>Moſes</hi> his diligence made him an excellent Magiſtrate who was <hi>from the Morning unto the Evening</hi> ſitting in Judgment, <hi>Exod.</hi> 18, 13.</p>
+            <p n="4">
+               <hi>IV.</hi> A Magiſtrate muſt have <hi>Courage.</hi> He muſt not be afraid to do his Duty, whomſoever he diſ<g ref="char:EOLhyphen"/>obliges. He cannot be a righteous Magiſtrate who is not a Couragious one, becauſe he will be afraid to do his Duty, upon the appearance of any danger.
+<pb n="14" facs="tcp:53642:10"/>He muſt not be like <hi>Ephraim, A Silly Dove without Heart,</hi> but one who will know his place, and make others know it too. He that ſaith, This man will be Angry, and the other will be diſobliged, is more fit to have a Feather than a Sword born before him. <hi>Solomons</hi> Throne was ſupported by Lions, to ſignifie that thoſe that are in Authority muſt be as bold as that Creature.</p>
+            <p>As Uprightneſs and Impartiality is neceſſary for doing right to the Poor; ſo is Courage and Magna<g ref="char:EOLhyphen"/>nimity, for the puniſhing of great and rich Offen<g ref="char:EOLhyphen"/>ders. Magiſtrates muſt fear God, but they muſt not fear men. The Electors ſhould therefore reſolve as <hi>Gideon</hi> did, that they will not have one who is <hi>fear<g ref="char:EOLhyphen"/>ful and afraid,</hi> but one that will do by the ſtouteſt Offender, as <hi>David</hi> did by the <hi>Lyon</hi> and the <hi>Bear,</hi> when the Lamb was taken out of the Flock. He was not afraid to take the <hi>Lyon by the Beard</hi> and ſlay him, to reſcue the poor innocent Creature, 1 <hi>Sam.</hi> 17.35. He muſt be as ſtout in the Execution of his Office, as <hi>Job</hi> was, who <hi>brake the jaws of the wicked, and plucked the ſpoyl out of their teeth,</hi> Job 29.17. He muſt not do by Men as <hi>Saul</hi> did by the <hi>Amalekites</hi> Cattle. God commanded him to ſlay all the Cattle, and he only ſlew the leaneſt, and <hi>ſpared</hi> the fatteſt, becauſe he <hi>feared the People and obeyed their Voice. Achilles</hi>'s Armour muſt not be on a Cowards back. The Puniſhment of a great Malefactor, is a fearing Example to the ſmall ones, becauſe it convinceth them, that the Magiſtrate is reſolved that no evil<g ref="char:EOLhyphen"/>doer, brought before him, ſhall eſcape.</p>
+            <p n="5">
+               <hi>V. Loyalty</hi> to the Supream Magiſtrate, is another
+<pb n="15" facs="tcp:53642:10"/>neceſſary Qualification. <hi>Qui Coeſarem portat,</hi> He that bears the King's Authority in his hand, will be the fitter to govern if he bears true Affection to him in his Heart. And to chuſe one that doth not, may prove very fatal.</p>
+            <p>The Loyalty of the Chief Magiſtrate of the <hi>Me<g ref="char:EOLhyphen"/>tropolis</hi> or <hi>Imperial</hi> City, is a great ſecurity to the Crown, becauſe danger doth commonly ariſe there. What <hi>Alexander</hi> once ſaid to one of his Chieftains, in whom he placed great conſidence, may the King and Queen ſay to the Lord Mayor of this City, if he be Loyal; <hi>If you be awake I may ſleep.</hi> The King ſees with the Eyes of his Magiſtrates, and with none more than with <hi>His</hi> Eyes, who ſitteth in the Chair of this great City. This is probably the meaning of <hi>Solomon,</hi> Prov. 20.8. <hi>A King that ſitteth upon the Throne ſcattereth away all evil with his eyes;</hi> that is, with the Eyes of his Magiſtrates. And if they be ſo blind that they will not ſee, the Kings and the Peoples Caſe muſt be very dangerous.</p>
+            <p>And there is a neceſſity of more than ordinary Loyalty at this Time, when the great Concerns, not only of this but of other neighbouring Nations, re<g ref="char:EOLhyphen"/>quire the Kings frequent and long abſence. And when there are ſo many amongſt us, who are ſo in<g ref="char:EOLhyphen"/>ſenſible of our wonderful Deliverance from the Ty<g ref="char:EOLhyphen"/>ranny o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Popery, that they would bring us back a<g ref="char:EOLhyphen"/>gain into that worſe than <hi>Aegyptian</hi> Bondage: Men who deſire nothing ſo much as to act the part of blind <hi>Sampſon,</hi> by pulling down the Houſe the they periſh themſelves by the fall of it. When the Diſ<g ref="char:EOLhyphen"/>ciples would have fetch'd <hi>Fire from Heaven,</hi> to de<g ref="char:EOLhyphen"/>ſtroy
+<pb n="16" facs="tcp:53642:11"/>the <hi>Samaritans,</hi> our Saviour rebuked them and ſaid, <hi>Ye know not what Spirit ye are of.</hi> What Spirit then are theſe men of, who would fetch Fire from Hell, (I mean from <hi>France</hi>) to deſtroy their own Country-men and the men of their own Religion? But I hope there will be a Lord Mayor choſen again, who will uſe his utmoſt diligence to diſappoint the Deſign of theſe blind Proteſtants. The Jeſuits (Thanks be to God) are gone, but wherever they are, they cannot but be exceedingly pleaſed, that they have Proteſtant Agents who are carrying on that Deſign which will bring them all back again, to ſit at the Helm as they did before. By this it may appear what a neceſſary Qualification Loyal<g ref="char:EOLhyphen"/>ty is.</p>
+            <p n="6">
+               <hi>VI.</hi> And Laſtly, Piety, which is the beſt Quali<g ref="char:EOLhyphen"/>fication. <hi>He that ruleth men muſt be juſt, ruling in the fear of God,</hi> 2 <hi>Sam.</hi> 23.3. The Antient <hi>Romans</hi> would not endure that a Sentence ſhould be paſs'd by a vitious Magiſtrate. Good Magiſtrates make good Cities. When God would reſtore to his Peo<g ref="char:EOLhyphen"/>ple, <hi>Judges as at the firſt, and Counſellors as at the beginning,</hi> it preſently follows, <hi>Thou ſhalt be called, The City of Righteouſneſs, the faithful City,</hi> Eſa. 1.26. And on the contrary, Cities are ſpoyled when they are governed by vitious Men. It the Magiſtrate be a <hi>Ruler of Sodom,</hi> 'tis the way for the Citizens to be <hi>the People of Gomorrha.</hi>
+            </p>
+            <p>A Pious Magiſtrate is therefore highly to be va<g ref="char:EOLhyphen"/>lued, becauſe he will have a ſpecial regard to Re<g ref="char:EOLhyphen"/>ligion, and the Church of God. He <hi>will remember the Lord and let Jeruſalem,</hi> as well as <hi>London, come in<g ref="char:EOLhyphen"/>to
+<pb n="17" facs="tcp:53642:11"/>his mind, Jer.</hi> 51.50. It hath pleaſed God to bleſs our Church with many pious and Learned Pre<g ref="char:EOLhyphen"/>lates. And if it pleaſeth God to bleſs our State with Pious and wiſe Magiſtrates, we may hope that we ſhall be at unity in our ſelves, and that <hi>judg<g ref="char:EOLhyphen"/>ment will run down like waters, and righteouſneſs with</hi> ſuch <hi>a mighty ſtream,</hi> that vicious men will not be able to ſtemm the torrent of it. God guided his people through the wilderneſs by <hi>Moſes</hi> and <hi>Aaron.</hi> When Magiſtrates and Miniſters joyn in the promo<g ref="char:EOLhyphen"/>ting of Gods Honour, we may expect that piety ſhould encreaſe, and wickedneſs be ſuppreſt. Mi<g ref="char:EOLhyphen"/>niſters cannot do it alone. We can only tell ſin<g ref="char:EOLhyphen"/>ners of the wrath of God that is to come, and they either look upon it at a diſtance, which they may timely enough prevent: Or elſe they will not believe it till they irrecoverably fall under it. But the wrath of the Magiſtrate is <hi>like a Roaring Lion,</hi> to them in this world that is ready to tear them if they obey not. The <hi>ſword of the Spirit</hi> will not reach them, but the <hi>Sword</hi> of the Magiſtrate may. They are too hard to be <hi>hewn by the Prophets,</hi> but they may be hewn by the Magiſtrates. We com<g ref="char:EOLhyphen"/>plain with ſorrowful hearts, that we <hi>labour in vain,</hi> but the Magiſtrate ſhall not need to <hi>bear the ſword in vain,</hi> but may be a <hi>terrour to evil doers:</hi> And he hath reaſon to expect that God will be a terror to him, if he be not. The Magiſtrate ſhould conſi<g ref="char:EOLhyphen"/>der that his Sword is <hi>the Sword of the Lord,</hi> as
+<pb n="18" facs="tcp:53642:12"/>well as <hi>Gideons</hi> for the overcoming of thoſe that are enemies to God and Goodneſs.</p>
+            <p>
+               <hi>Cato</hi> exhorting Magiſtrates to puniſh offenders, ſaid, That thoſe who can ſuppreſs wickedneſs, and will not, deſerve to be ſton'd to death, <hi>Quod ad ſcelerum licentiam invitarent improbos.</hi> By not pun<g ref="char:EOLhyphen"/>iſhing wickedneſs they invited men to the com<g ref="char:EOLhyphen"/>miſſion of it. The Councel therefore which <hi>Jethro</hi> gave to <hi>Moſes,</hi> is fit to be obſerverd by the Citi<g ref="char:EOLhyphen"/>zens this day, <hi>viz.</hi> That they <hi>Chuſe an able Man, and one that fears God,</hi> Exo. 18.21. And ſuch a Man will do as <hi>Moſes</hi> did, <hi>v.</hi> 16. <hi>Make the people to know the ſtatutes of God and his Laws,</hi> by ſeverely puniſhing the diſobedient.</p>
+            <p>Thus I have given you the qualifications which make a Righteous Magiſtrate. And the nearer that any man comes to theſe, the Happier will the City be, and the greater cauſe will the Citizens have to <hi>rejoyce.</hi>
+            </p>
+            <p>I Come now to the ſecond thing in the Text. <hi>The people Rejoyce,</hi> of which I ſhall need to ſpeak but little, becauſe every conſiderate man knows that the due Adminiſtration of Juſtice by a Magiſtrate duly qualified, is the great preſervative of his Hap<g ref="char:EOLhyphen"/>pineſs. <hi>David</hi> could call for no greater hurt to his enemies than that a <hi>wicked man ſhould be ſet over
+<pb n="19" facs="tcp:53642:12"/>them.</hi> And, by the Rule of Contraries, 'tis one of the greateſt bleſſings of this life for any Nation or City to have a Righteous Man ſet over them. A Governour of <hi>Atheas</hi> thanked God, that he ne<g ref="char:EOLhyphen"/>ver made an Athenian weep. A Righteous Magi<g ref="char:EOLhyphen"/>ſtrate will take ſuch Care of the City, and of the Rights and priviledges of it, as never to grieve an Honeſt Citizen By ſuch a one, good men will be greatly encouraged, and vicious men will be ſe<g ref="char:EOLhyphen"/>verely puniſhed, which is a great cauſe of rejoy<g ref="char:EOLhyphen"/>cing. <hi>When the Righteous are exalted, the City re<g ref="char:EOLhyphen"/>joyceth; and when the wicked periſh, there is ſhouting,</hi> Prov. 11.10.</p>
+            <p>We read of a Heathen who refuſed the Office of a Magiſtrate, ſaying, That if he govern'd ill, he ſhould offend the Gods; And if he govern'd well, he ſhould offend the Citizens. But (thanks be to God) as bad as the world is, it is not ſo bad but that thoſe who take Care to Govern well, ſhall <hi>pleaſe</hi> the Citizens. A Righteous Magiſtrate will have that applauſe from all good and ſober men, which <hi>Job</hi> had ch. 29.11. <hi>When the ear heard me, then it bleſſed me; and when the eye ſaw me, it gave witneſs to me.</hi> He, being a Righteous Magiſtrate, all that ſaw him or heard him, rejoyced in him.</p>
+            <p>As therefore you expect ſuch a Magiſtrate, be careful that you have a right Aim in your Choice,
+<pb n="20" facs="tcp:53642:13"/>and that you be not miſguided by favour or affection or any ſiniſter end. Let me give my advice to you in theſe two concluding particulars.</p>
+            <p>
+               <hi>Firſt,</hi> Act like true Citizens, that value the good and wellſare of the City, and be not byaſs'd to Act contrary to your own judgment. Con<g ref="char:EOLhyphen"/>ſider.</p>
+            <p>
+               <hi>Firſt.</hi> That perſonal Obligations muſt not ſway you in ſuch a great concern as the choice of a Ma<g ref="char:EOLhyphen"/>giſtrate. You muſt not do the City an injury be<g ref="char:EOLhyphen"/>cauſe a particular man hath done you a kindneſs. If in this Caſe, my beſt friend and my greateſt enemy ſhould be in Competition, and I am ſatisfied that my Enemy is the fitteſt man to govern and would be moſt ſerviceable to the City; I cannot ſatisfie God, and my own Conſcience, if I do not vote for my enemy, becauſe tis the publique good from which I muſt take my meaſures.</p>
+            <p n="2">2. The Relation and Obligations of a Society muſt not prevail. I muſt confeſs that it is a very pleaſant ſight to behold the brotherly love, which the members of particular Societies ſhew to each o<g ref="char:EOLhyphen"/>ther. And when a Brother of a Company proves in a Mans Judgment, to be the fitteſt man, 'tis great ſatisfaction to the mind: But otherwiſe a man ſhall deal Perfidiouſly and Treacherouſly by the Ci<g ref="char:EOLhyphen"/>ty.
+<pb n="21" facs="tcp:53642:13"/>'Tis (according to what I mention'd before) as if a man ſhould kill his Mother to do his Brother a kindneſs. Beſides, every man deſires to have a Magiſtrate that will Act impartially, without favour and affection, but how can you expect it if you are partial, and act only from perſonal favour and affection in the choice of him? It is a great concern; And though it be but for one year, yet it may prove a very Critical one, and may require great wiſdom, as well as the other qualifications, in him whom you make the Chief Magiſtrate. <hi>Solomon</hi> tells us, <hi>Eccl.</hi> 9.14. A parable of a <hi>poor wiſe man,</hi> who delivered a City <hi>by his wiſdom,</hi> when a <hi>great King came a<g ref="char:EOLhyphen"/>gainſt it.</hi> We know that there is a Potent King who wages war againſt us, and if by Treachery or force he can overcome this City, he will look upon his work as more then half done. And what a great bleſſing then may a wiſe man be, who hath Authority as well as wiſdom, to preſerve the City?</p>
+            <p n="2">2. Act like good Chriſtians. Let me beſeech you in the name of that God who is the <hi>God of peace,</hi> and <hi>by the name of our Lord Jeſus Chriſt,</hi> who is <hi>the Prince of Peace,</hi> that there be no Unchriſtian Jarrings and Contentions amongſt you, which are a great diſhonor to our Religion, and a great preju<g ref="char:EOLhyphen"/>dice to the Souls of Men. How can you expect that God ſhould proſper your choice, if you offend him
+<pb n="22" facs="tcp:53642:14"/>at the ſame time? Remember I beſeech you, that if you are True Chriſtians, you are <hi>fellow-Citizens with the Saints, and of the Houſhold of God,</hi> which is the higheſt Obligation to Chriſtian Love and U<g ref="char:EOLhyphen"/>nity. Every man may uſe his priviledge, though he doth not diſparage the name of Chriſtianity. He may Vote according to the beſt of his judgment without ſhewing any diſreſpect to him that Votes for other men. It is a very deplorable Caſe, if a <hi>Christian</hi> Magiſtrate cannot be Choſen by <hi>Chriſtian</hi> Citizens without the breach of <hi>Christian</hi> Love.</p>
+            <p>I pray God of Heaven keep you from <hi>
+                  <g ref="char:V">Ʋ</g>nchriſtian</hi> Heats and Animoſities, and give you his direction and bleſſing in this great and important affair; that a <hi>Righteous</hi> man <hi>may be in Authority,</hi> and that you may all have cauſe to <hi>Rejoyce</hi> in him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:53642:14"/>
+            <head>Advertiſement.</head>
+            <p>THE Unworthy Non-Communicant.</p>
+            <p>The Neceſſity of Reſtitution.</p>
+            <p>The Benefit of Early Piety.</p>
+            <p>Advice to Young Men to beware of Theft, and to beware of Drunkenneſs. <hi>By Mr.</hi> Smythies.</p>
+            <p>
+               <hi>The aforeſaid Books are Sold by</hi> J. Southby <hi>at the Harrow in</hi> Cornhil.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
